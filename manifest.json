@@ -1,0 +1,16 @@
+{
+  "name": "Respira",
+  "short_name": "Respira",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#a3a366",
+  "theme_color": "#a3a366",
+  "description": "Una app para respirar",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
