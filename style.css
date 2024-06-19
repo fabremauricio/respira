@@ -11,6 +11,11 @@
   transition: all 500ms ease;
   padding: 0px;
   margin: 0px;
+
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
 }
 
 body {
