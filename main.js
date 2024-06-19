@@ -20,7 +20,7 @@ window.onload = () => {
   };
 
   const applyAnimation = () => {
-    const main = document.querySelector("main");
+    const main = document.querySelector("#ball");
     main.style.animation = "none";
     void main.offsetWidth;
     main.style.animation = `grow ${number}s infinite`;
