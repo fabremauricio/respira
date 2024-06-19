@@ -1,5 +1,5 @@
 const CACHE_NAME = "my-pwa-cache-v1";
-const urlsToCache = ["/", "/index.html", "/style.css", "/main.js"];
+const urlsToCache = ["/", "/index.html", "/style.css", "/main.js", "/logo.png"];
 
 // Install event
 self.addEventListener("install", (event) => {
